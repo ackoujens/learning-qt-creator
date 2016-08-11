@@ -13,3 +13,4 @@ For easy reference when you need it the most.
 7. SecondWindow: Creating a second window from your original application
 8. LoginApp: Groupbox / Statusbar / QPixmap
 9. StylesheetsAndHTML: Styling and markup of your application
+10. QCheckbox: Checkbox behaviors
