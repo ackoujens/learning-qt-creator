@@ -11,3 +11,4 @@ For easy reference when you need it the most.
 5. Layouts: Different layouts and their behaviors
 6. SpacersSplittersBuddyTabs: Filling space in ui / Slidable dividers / Grouping elements / Tab order
 7. SecondWindow: Creating a second window from your original application
+8. LoginApp: Groupbox / Statusbar / QPixmap
