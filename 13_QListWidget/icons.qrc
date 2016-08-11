@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>award-badge-2.png</file>
+        <file>award-badge.png</file>
+    </qresource>
+</RCC>
