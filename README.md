@@ -17,3 +17,4 @@ For easy reference when you need it the most.
 11. QRadioButtons: Radio button behavior / Radio button grouping
 12. QCombobox: How to add items to combo box / How to check item value
 13. QListWidget: Adding items to list widget / Change colors on selection
+14. QDir: Checking, listing & creating directories
