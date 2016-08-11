@@ -9,3 +9,5 @@ For easy reference when you need it the most.
 3. SignalsAndSlots: Streaming information from one widget to another
 4. QMessageBox: Different kinds of pop-up message boxes / QDebug
 5. Layouts: Different layouts and their behaviors
+6. SpacersSplittersBuddyTabs: Filling space in ui / Slidable dividers / Grouping elements / Tab order
+7. SecondWindow: Creating a second window from your original application
