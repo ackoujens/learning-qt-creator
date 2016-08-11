@@ -15,3 +15,4 @@ For easy reference when you need it the most.
 9. StylesheetsAndHTML: Styling and markup of your application
 10. QCheckbox: Checkbox behaviors
 11. QRadioButtons: Radio button behavior / Radio button grouping
+12. QCombobox: How to add items to combo box / How to check item value

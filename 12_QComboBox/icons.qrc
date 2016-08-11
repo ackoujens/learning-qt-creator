@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>coffee-cup-with-steam.png</file>
+    </qresource>
+</RCC>
