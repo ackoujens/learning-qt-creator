@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>saveas.gif</file>
+        <file>font.gif</file>
+        <file>hlcolor.gif</file>
+        <file>bgcolor.gif</file>
+        <file>copy.gif</file>
+        <file>cut.gif</file>
+        <file>quit.gif</file>
+        <file>file.gif</file>
+        <file>open.gif</file>
+        <file>fcolor.gif</file>
+        <file>about.gif</file>
+        <file>paste.gif</file>
+        <file>print.gif</file>
+        <file>redo.gif</file>
+        <file>save.gif</file>
+        <file>undo.gif</file>
+    </qresource>
+</RCC>

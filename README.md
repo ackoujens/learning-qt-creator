@@ -23,3 +23,4 @@ For easy reference when you need it the most.
 17. QTimer: triggering timed functions
 18. QDateTime: creating a clock
 19. QTabWidget: removing and creating tabs / other tab functionalities
+20. Notepad: combining techniques from above to create a simple notepad
