@@ -21,3 +21,4 @@ For easy reference when you need it the most.
 15. QFile: open, create and edit text files
 16. QFileDialog: opening file dialog / file information
 17. QTimer: triggering timed functions
+18. QDateTime: creating a clock
