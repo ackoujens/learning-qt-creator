@@ -20,3 +20,4 @@ For easy reference when you need it the most.
 14. QDir: checking, listing & creating directories
 15. QFile: open, create and edit text files
 16. QFileDialog: opening file dialog / file information
+17. QTimer: triggering timed functions
